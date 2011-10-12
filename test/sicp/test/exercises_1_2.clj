@@ -1,5 +1,5 @@
 (ns sicp.test.exercises-1-2
-  (use expectations))
+  (:use expectations))
 
 (expect (/ -37 150)
         (/
